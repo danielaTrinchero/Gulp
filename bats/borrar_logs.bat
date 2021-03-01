@@ -1,0 +1,1 @@
+del /q C:\Git\ARG\src\arte\AON.PhoenixRuleEngine.Arte\NodeJs\Logs \*
